@@ -36,5 +36,5 @@ class TestMultiply:
 
     def test_multiply_negative_numbers(self):
         """Test multiplying negative numbers."""
-        assert multiply(-2, 8) == -6
+        assert multiply(-2, 8) == -16
 
